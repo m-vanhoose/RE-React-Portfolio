@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/re-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/re-portfolio/static/js/main.51020e69.js",
+    "main.css": "/re-portfolio/static/css/main.a737393b.css",
+    "main.js": "/re-portfolio/static/js/main.bb845017.js",
     "static/js/787.790e6851.chunk.js": "/re-portfolio/static/js/787.790e6851.chunk.js",
-    "static/media/logo.svg": "/re-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/e-commerce.png": "/re-portfolio/static/media/e-commerce.9dc2d0203c16dd216819.png",
+    "static/media/sauna-games.png": "/re-portfolio/static/media/sauna-games.4027703a36d7b30e7ddf.png",
+    "static/media/Wedding.jpeg": "/re-portfolio/static/media/Wedding.c1afcdb279d7cff111ee.jpeg",
+    "static/media/day-planner-1.png": "/re-portfolio/static/media/day-planner-1.1a7d312405ea0b43c885.png",
+    "static/media/Weather-app.PNG": "/re-portfolio/static/media/Weather-app.67fe3d5868bb2017349d.PNG",
+    "static/media/note-taker.png": "/re-portfolio/static/media/note-taker.eee1be74b7df87558af6.png",
+    "static/media/editor-pwa.png": "/re-portfolio/static/media/editor-pwa.e79d2a6dfdb671f4ed6d.png",
     "index.html": "/re-portfolio/index.html",
-    "main.073c9b0a.css.map": "/re-portfolio/static/css/main.073c9b0a.css.map",
-    "main.51020e69.js.map": "/re-portfolio/static/js/main.51020e69.js.map",
+    "main.a737393b.css.map": "/re-portfolio/static/css/main.a737393b.css.map",
+    "main.bb845017.js.map": "/re-portfolio/static/js/main.bb845017.js.map",
     "787.790e6851.chunk.js.map": "/re-portfolio/static/js/787.790e6851.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.51020e69.js"
+    "static/css/main.a737393b.css",
+    "static/js/main.bb845017.js"
   ]
 }
